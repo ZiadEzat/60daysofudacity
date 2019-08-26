@@ -1,0 +1,129 @@
+Day 60
+- Completed the #60daysofudacity initiative in one piece :smile: :celebrate:
+- Made a github repo for the #60daysofudacity 
+- Working on AI specialization course from IBM Digital for their competition.
+- Working on AWS Deepracer scholarship
+- Rode a bicycle for the first time as a celebration xd (I found out that I'm a fast learner after learning riding bicycle in less than a minute!)
+- Submitted my project on #project-showcase-challenge, Check it out and make sure to give a :clapping: if you liked it :smile: https://secureprivataischolar.slack.com/archives/CMHLLUAE5/p1566839783283700
+
+Day 59
+- Revisited Lesson 3, 4
+- Working on the Deepracer course
+- encouraging @Carlo David @Sourav @Shudipto Trafder @Mansi Goyal @Khush @bsalem
+
+Day 58
+- Working on AWS Deepracer course
+- tagging @Ahmed Thabit @Aya Khaled @Mohammad Diab @Nouran El Kassas @Nancy Al Aswad @Alaa Emad @David Ashraf @Mohamed Amr
+
+Day 57
+- Working on AWS Deepracer course
+- Encouraging @Ish @Inês Pinto @Oladimeji Mudele @Bhadresh Savani
+
+Day 56
+- Working on the final project
+- Teached a friend some basic concepts of Deep Learning :)
+- Encouraging @Mohammad Diab @Nouran El Kassas @Helena Barmer @David Ashraf @Ahmed Thabit @Nancy Al Aswad @Aisha Javed
+
+Day 55
+- Working on the final project
+- Tagging @Eric Macharia @Salomon @Rebeca Andrade @Shudipto Trafder @LauraT
+
+
+Day 54
+- Revisited lesson one
+- Working on uploading my project for project showcase initiative
+- tagging @George Christopoulos @Ish
+
+Day 53
+- Finished all the lessons :celebrate: :celebrate: 
+- participated in alphabet based introduction activity.
+- Tagging @Nícolas Pauli @Yemi @Helena Barmer
+
+day 52 
+- Finished lesson 7
+- Filled project showcase interest form
+- encouraging @Kaivan Doshi @Ellyana Linden @Diganta
+
+Day 51
+- Compeleted lesson 6 
+- encouraging @barabash @Kapil Chandorikar @Hadjer Benmeziane
+
+
+
+Day 47:
+- Worked on a CV Robotic arm project
+- Encouraging @Agata [OR, USA] @Daniel Adinugroho @Fustincho @LauraT
+
+Day 46
+- Worked (a little)on a robotic arm CV Project
+- Happy Eid all
+- cheers to @Suraiya Khan @Sourav @Helena Barmer @Ishan Arora @Kapil Chandorikar @David Ashraf @Agata [OR, USA]
+
+Day 45:
+
+
+- Continued on lesson 6 and had many troubles installing PySyft
+- Restudied matplotlib, numpy, and some NN basics
+- Cheering @Helena Barmer @David Ashraf @Mansi Goyal @Mohammad Diab @Aya Khaled @Nouran El Kassas @Ahmed Thabit @Ishan Arora @Kapil Chandorikar @Agata [OR, USA] @Shashank Jain @Madison Estabrook (DL, FE, USA) @LauraT
+
+Day 44 
+- Continued on lesson 6
+- participated in Mansi's tidbits
+- Cheering @Helena Barmer @David Ashraf @Mansi Goyal @Mohammad Diab @Aya Khaled @Nouran El Kassas @Ahmed Thabit
+
+Day 43
+- Worked on a CV Robotic Arm Project
+- encouraging @Rohit @Shubhendu Mishra @Shashank Jain @shellkore @Michael Sheinman @Sourav
+
+Day 42:
+- Watched tutorial on OpenCV and applied on it  https://youtu.be/88HdqNDQsEk
+- Watched videos from lesson 6
+Couldn't do much due to grandma's funeral was today.
+- Encouraging @Rabin Banjade @Nícolas Pauli @Zaid @Noom Chanthadit
+
+Day 41
+- Looked for tutorials on how to do Video Classification https://github.com/HHTseng/video-classification
+https://youtu.be/-ZrDjwXZGxI
+- Encouraging @Ellyana Linden @Mansi Goyal @Gogulaanand R @Sridhar Ethiraj @Halwai Aftab Hasan @Bearbear @Nancy Al Aswad @Gabriela Enuta @THIYAGARAJAN R (edited) 
+
+DAY 40
+- Read how to do object detection and tracking using pytorch https://towardsdatascience.com/object-detection-and-tracking-in-pytorch-b3cf1a696a98
+- Attended a group meetup for the #sg_pytorch-robotics project with @Mohammad Diab @Nouran El Kassas @qursaan @Ahmed MAGDY EISSA
+- encouraging  @Mohammad Diab @Nouran El Kassas @qursaan @Ahmed MAGDY EISSA @Berenice @Carlo David @Harshit Jain
+
+Day 39
+- Worked on CV robotic arm (it barely works)
+-  Watched video about RNN https://m.youtube.com/watch?v=ogZi5oIo4fI
+- encouraging @helmogey @Sourav @Helena Barmer @Aisha Javed @Madison Estabrook (DL, FE, USA) @Temitope Oladokun
+
+
+Day 38:
+- Read about Affectiva and emotional intelligence and how it works with AI (https://www.searchenginejournal.com/what-is-artificial-emotional-intelligence/255769/ - www.affectiva.com)
+- Watched tutorials about Object Detection with TensorFlow
+- Read about the concepts of RNN (https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce)
+- Tagging @Mansi Goyal @Sourav @Siddhant @LauraT @Fustincho @Madison Estabrook (DL, FE, USA) @Calincan Mircea Ioan @Eman
+Good luck all
+
+Day 37
+- Joined #sg_pytorch-robotics's group project and working on it
+- Read about RNN
+- attended meetup with Mohammad Diab Ahmed Thabit Nouran El Kassas within #sg_pytorch-robotics and #sg_egypt 
+- encouraging @Suparna S Nair @Shashank Jain @Aisha Khatun @Aisha Javed @Temitope Oladokun
+
+
+
+ay 36
+- Watched some videos from a Udemy course called "Deep Learning and Computer Vision A-Z™ OpenCV, SSD & GANs"
+- encouraging @mahmoud @Florence Njeri @Berenice
+
+
+Day 35
+- Revisited lesson one
+- tagging @Khush @Mansi Goyal @Berenice
+
+Day 34
+- Attended Code Geist Hackathon (third day)
+- Worked on Bomb Defusing Robot (BDR) with CV implemented during the hackathon
+- waiting for the results tomorrow ^^
+- Encouraging @Ahmed MAGDY EISSA, @abdelrazek rizk @Abdelrahman Abounegm
+Good Luck :)
